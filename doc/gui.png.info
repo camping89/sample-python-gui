@@ -1,0 +1,25 @@
+GUI Reference Image Information
+==============================
+
+File: gui.png
+Size: 889,495 bytes (869KB)
+Dimensions: 1482 x 1212 pixels
+Format: PNG (RGBA, 8-bit)
+Type: Reference GUI design screenshot
+
+Description:
+This file contains a reference screenshot of the intended GUI layout
+for the SEN Trading System. It shows the main dashboard with:
+- Account information panel
+- Trading charts
+- Strategy management interface
+- Settings panel
+
+Note: The actual PNG file is not included in this repository due to size constraints.
+To view the reference design, please check the local development environment
+or contact the development team.
+
+Alternative references:
+- Check the implemented screens in src/screens/
+- Run the application to see the actual GUI
+- Review the README.md for feature descriptions
