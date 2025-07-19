@@ -82,4 +82,4 @@ This is a foundational structure that can be extended with:
 - Advanced charting with additional indicators
 - Real-time data feeds
 - Strategy backtesting capabilities
-- Export/import functionality
+- Export/import functionality# Default branch update
