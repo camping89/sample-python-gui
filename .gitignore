@@ -36,11 +36,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Claude
-.claude/
-
 # Data files
-data/
 *.log
 
 # Temporary files
